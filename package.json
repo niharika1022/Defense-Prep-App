@@ -1,0 +1,17 @@
+{
+  "name": "defense-exam-prep",
+  "version": "1.0.0",
+  "description": "CDS/NDA Defense Exam Preparation App",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx live-server --open=index.html"
+  },
+  "keywords": ["CDS", "NDA", "defense", "exam", "preparation"],
+  "author": "NIKK",
+  "license": "MIT",
+  "devDependencies": {
+    "serve": "^14.2.1",
+    "live-server": "^1.2.2"
+  }
+}
